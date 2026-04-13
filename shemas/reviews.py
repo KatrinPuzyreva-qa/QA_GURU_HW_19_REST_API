@@ -1,4 +1,4 @@
-response_schema = {
+review_list_schema = {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "List of Reviews",
   "description": "Схема для валидации списка отзывов с пагинацией",
